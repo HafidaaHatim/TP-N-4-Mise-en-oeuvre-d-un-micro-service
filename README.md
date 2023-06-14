@@ -65,30 +65,29 @@
   
           liste de compte utilisant l'identifiant, le solde, la devise, le type et requête pour récupérer une liste de comptes:
           
-          <img width="944" alt="22_bestgraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/f8462a39-44b6-454f-bcaf-7efef6dc6e7e">
+ <img width="944" alt="22_bestgraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/f8462a39-44b6-454f-bcaf-7efef6dc6e7e">
           
           Recuperer un compte sachant que l' Id:
           
-            <img width="953" alt="23_findbyid" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/32e791ca-58e2-4f6a-8390-18ec8f04e3b7">
+    <img width="953" alt="23_findbyid" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/32e791ca-58e2-4f6a-8390-18ec8f04e3b7">
 
            Exception handeler:
            
-           <img width="926" alt="24_notfound" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/1ee1a4df-805d-46b1-83fc-27e7ba097c8c">
+    <img width="926" alt="24_notfound" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/1ee1a4df-805d-46b1-83fc-27e7ba097c8c">
            
            Ajouter un compte en utilisant la mutation :
-           
-           <img width="868" alt="25_ADDAcountGraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ce5372de-38d3-4233- 809d34a20a982387">
+   <img width="868" alt="25_ADDAcountGraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ce5372de-38d3-4233- 809d34a20a982387">
            
            Mettre à jour le compte en utilisant l'identifiant :
            
-           <img width="896" alt="26_UpdateGrapheQl" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/6c66bea3-7259-439b-9fb7-baf1aa788d56">
+<img width="896" alt="26_UpdateGrapheQl" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/6c66bea3-7259-439b-9fb7-baf1aa788d56">
            
            Supprimer l'account :
       <img width="876" alt="27_Delete" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/e3111604-6c6d-4067-9300-546977a2204b">
            
            la Base de donnée Customer :
            
-           <img width="404" alt="29_customer" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/825b8088-bba4-4e0f-9571-88adfa928809">
+   <img width="404" alt="29_customer" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/825b8088-bba4-4e0f-9571-88adfa928809">
            
            la Base de données bankAccount on ajoute customer_ID:
            
