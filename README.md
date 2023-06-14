@@ -69,11 +69,12 @@
           
           Recuperer un compte sachant que l' Id:
           
-    <img width="953" alt="23_findbyid" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/32e791ca-58e2-4f6a-8390-18ec8f04e3b7">
+  <img width="800" alt="26_UpdateGrapheQl" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/20040870-65ea-4882-85f8-3f1cf85d9ba9">
 
            Exception handeler:
            
-    <img width="926" alt="24_notfound" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/1ee1a4df-805d-46b1-83fc-27e7ba097c8c">
+   <img width="800" alt="24_notfound" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/f3b2e353-8e8d-43de-b361-4902ea405f9a">
+
            
            Ajouter un compte en utilisant la mutation :
    <img width="868" alt="25_ADDAcountGraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ce5372de-38d3-4233- 809d34a20a982387">
