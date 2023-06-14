@@ -82,7 +82,8 @@
 <img width="896" alt="26_UpdateGrapheQl" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/6c66bea3-7259-439b-9fb7-baf1aa788d56">
            
            Supprimer l'account :
-      <img width="876" alt="27_Delete" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/e3111604-6c6d-4067-9300-546977a2204b">
+      <img width="800" alt="27_Delete" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/012d8bf6-4391-4dd5-8a2d-26e18b7d4b3e">
+
            
            la Base de donnée Customer :
            
@@ -90,10 +91,13 @@
            
            la Base de données bankAccount on ajoute customer_ID:
            
-           <img width="632" alt="28" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/629e7d77-8a31-4063-a876-80cde8d6774e">
+        <img width="625" alt="Capture" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/44ea4529-24be-47cf-af0c-ae9538a00be9">
+
            
            Rechercher par nom de client :
-           <img width="893" alt="30" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/1f8a9bb1-1725-48dc-8efe-cdedf6e93fa5">
+           
+           <img width="800" alt="30" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/b91460b5-df2b-4f33-8585-a0b793be338a">
+
            
 
 
