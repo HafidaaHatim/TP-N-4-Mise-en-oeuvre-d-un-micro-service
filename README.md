@@ -62,8 +62,7 @@
   <img width="822" alt="13_projection" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ea64af67-c5ae-429a-8620-981c134a8c57">
   
   ### 11. Créer un Web service GraphQL pour ce micro-service :
-          liste de compte utilisant l'identifiant, le solde, la devise, le type et requête pour récupérer une liste de comptes:
-          
+          liste de compte utilisant l'identifiant, le solde, la devise, le type et requête pour récupérer une liste de comptes:       
  <img width="944" alt="22_bestgraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/f8462a39-44b6-454f-bcaf-7efef6dc6e7e">
           
           Recuperer un compte sachant que l' Id:
@@ -82,20 +81,18 @@
 <img width="896" alt="26_UpdateGrapheQl" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/6c66bea3-7259-439b-9fb7-baf1aa788d56">
            
            Supprimer l'account :
-      <img width="600" alt="27_Delete" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/012d8bf6-4391-4dd5-8a2d-26e18b7d4b3e">
-
-           
+   <img width="876" alt="27_Delete" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/1c5fb83e-5d5e-453e-bc4f-abeb16b13d04">
+      
            la Base de donnée Customer :
            
    <img width="404" alt="29_customer" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/825b8088-bba4-4e0f-9571-88adfa928809">
            
            la Base de données bankAccount on ajoute customer_ID:
            
-        <img width="600" alt="Capture" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/44ea4529-24be-47cf-af0c-ae9538a00be9">
+    <img width="632" alt="28" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/1988dd9f-85c1-44a6-8687-14e65cf0d6dd">
 
-           
            Rechercher par nom de client :
-           <img width="600" alt="30" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/b91460b5-df2b-4f33-8585-a0b793be338a">
+    <img width="893" alt="30" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/8c8a2cad-adb6-4e34-a317-b7ac7d83dcb3">
 
            
 
