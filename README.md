@@ -76,7 +76,8 @@
     <img width="926" alt="24_notfound" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/1ee1a4df-805d-46b1-83fc-27e7ba097c8c">
            
            Ajouter un compte en utilisant la mutation :
-           <img width="868" alt="25_ADDAcountGraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ce5372de-38d3-4233- 809d-34a20a982387">
+           
+<img width="868" alt="25_ADDAcountGraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ce5372de-38d3-4233- 809d34a20a982387">
            
            Mettre à jour le compte en utilisant l'identifiant :
            
