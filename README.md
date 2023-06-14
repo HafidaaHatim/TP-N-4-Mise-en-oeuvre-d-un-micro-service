@@ -62,7 +62,6 @@
   <img width="822" alt="13_projection" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ea64af67-c5ae-429a-8620-981c134a8c57">
   
   ### 11. Créer un Web service GraphQL pour ce micro-service :
-  
           liste de compte utilisant l'identifiant, le solde, la devise, le type et requête pour récupérer une liste de comptes:
           
  <img width="944" alt="22_bestgraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/f8462a39-44b6-454f-bcaf-7efef6dc6e7e">
@@ -74,11 +73,10 @@
            Exception handeler:
            
    <img width="800" alt="24_notfound" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/f3b2e353-8e8d-43de-b361-4902ea405f9a">
-
-           
+   
            Ajouter un compte en utilisant la mutation :
-   <img width="868" alt="25_ADDAcountGraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ce5372de-38d3-4233- 809d34a20a982387">
-           
+   <img width="800" alt="25_ADDAcountGraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ca4034c6-1da4-4b45-978c-d9a63df4059a">
+
            Mettre à jour le compte en utilisant l'identifiant :
            
 <img width="896" alt="26_UpdateGrapheQl" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/6c66bea3-7259-439b-9fb7-baf1aa788d56">
