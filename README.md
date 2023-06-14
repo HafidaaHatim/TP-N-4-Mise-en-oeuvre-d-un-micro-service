@@ -61,9 +61,8 @@
   
   <img width="822" alt="13_projection" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/ea64af67-c5ae-429a-8620-981c134a8c57">
   
-  ### 9. Créer les DTOs et Mappers:
-  
   ### 11. Créer un Web service GraphQL pour ce micro-service :
+  
           liste de compte utilisant l'identifiant, le solde, la devise, le type et requête pour récupérer une liste de comptes:
           
           <img width="944" alt="22_bestgraphql" src="https://github.com/HafidaaHatim/TP-N-4-Mise-en-oeuvre-d-un-micro-service/assets/130146750/f8462a39-44b6-454f-bcaf-7efef6dc6e7e">
